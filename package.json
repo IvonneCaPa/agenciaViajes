@@ -1,0 +1,29 @@
+{
+  "name": "agenciaviajes",
+  "version": "1.0.0",
+  "description": "Agencia de viajes",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvonneCaPa/agenciaViajes.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "ejs",
+    "servidores"
+  ],
+  "author": "Ivonne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IvonneCaPa/agenciaViajes/issues"
+  },
+  "homepage": "https://github.com/IvonneCaPa/agenciaViajes#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2"
+  }
+}
